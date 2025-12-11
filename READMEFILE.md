@@ -1,7 +1,3 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -12,7 +8,7 @@ Fork on Github
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
@@ -22,11 +18,15 @@ Fork on Github
 
 ###
 
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h5 align="left">NAME: SERGE ESGUERRA<br><br>    LOCATION: BASED IN QUEZON CITY, PHILIPPINES.<br><br>    SCHOOL: TECHNOLOGICAL INSTITUTE OF THE PHILIPPINES (T.I.P.).<br><br>    CURRENT STATUS: A DEDICATED COMPUTER ENGINEERING STUDENT.<br><br>    FOCUS: BUILDING A STRONG FOUNDATION IN BOTH HARDWARE AND SOFTWARE DEVELOPMENT.<br><br>    PURPOSE OF THIS PROFILE: THIS IS WHERE I SHARE MY WORK, TRACK MY PROGRESS, AND COLLABORATE ON INTERESTING PROJECTS.</h5>
+
+###
+
+<p align="left">I am a hardworking, highly motivated, and detail-oriented student passionate about solving complex technical challenges. I thrive on continuous learning and am always seeking opportunities to apply theoretical knowledge to practical, innovative projects. I believe in delivering quality work and am committed to making meaningful contributions in the field of Computer Engineering.</p>
 
 ###
 
@@ -40,45 +40,18 @@ Fork on Github
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="312" src="https://s5.ezgif.com/tmp/ezgif-5eda724a20faf96d.gif"  />
+  <img height="262" src="https://s5.ezgif.com/tmp/ezgif-52a8d827ed6cdff1.gif"  />
 </div>
 
 ###
-
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Privacy Policy
-Level Up Your README
-
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-Boost Your English
-
-Real devs debug in English.
-
-💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
-👉 Get 70% OFF 👈
-Clean Code
-
-A Handbook of Agile Software Craftsmanship by Uncle Bob.
-Get the book
-Clean Architecture
-
-Software Architecture Solutions from Uncle Bob.
-Get the book
-Explore More Books
-
-Browse the full list of curated titles to boost your coding skills.
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-
-Profile Readme Generator
