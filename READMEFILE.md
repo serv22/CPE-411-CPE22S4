@@ -36,9 +36,6 @@ While still developing my skills, I am committed to continuous growth and welcom
 
 <h2>Socials</h2>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <a href="https://discord.com/users/566177138005377036" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Discord" />
-  </a>
   <a href="https://www.facebook.com/srges2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Facebook" />
   </a>
